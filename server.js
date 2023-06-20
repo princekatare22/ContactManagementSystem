@@ -26,8 +26,7 @@ app.get("*", function (req, res) {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 
-
-const PORT = 8080 || process.env.PORT;
+const PORT = 8080 || "https://expensemanagementfrontend.onrender.com";
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
