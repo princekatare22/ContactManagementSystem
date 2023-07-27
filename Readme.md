@@ -9,15 +9,15 @@
       JWT_SECRET = "SET TO ANY STRING"
   </li>
   <li>
-    Go to client and run npm i
+    Go to client and run  command "npm i"
   </li>
   <li>
-    Go to server and run npm i
+    Go to server and run  command "npm i"
   </li>
   <li>
-    Go to client and run npm start
+    Go to client and run  command "npm start"
   </li>
   <li>
-    Go to server and run npm start
+    Go to server and run  command "npm start"
   </li>
 </ul>
