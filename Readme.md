@@ -1,5 +1,5 @@
 <h1>Contact Management System</h1>
-<h3> How too run :</h3>
+<h3> How to run :</h3>
 <ul>
   <li>
     Go to server folder in config replace "Enter your url" with your mongoDB url.
